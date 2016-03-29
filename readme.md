@@ -1,4 +1,7 @@
-# Laravel Elixir
+# Lumen Laravel Elixir Portation
+
+## Fork Note
+just replace lil laravel function usage
 
 ## Introduction
 
